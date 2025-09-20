@@ -1,0 +1,60 @@
+<html>
+<html lang="en"></html>
+<head>
+    <meta charset="UTF-8">
+    <title>
+        MymainpageGagaLin
+    </title>
+    <style id="uuu">
+        .center-text{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <h1 class="center-text" data-selectable-paragraph id="uuu">
+        My Self-Introduce
+            <br>
+        林家靖Lin Chia Ching/Gaga Lin
+    </h1>
+
+    <p>I'm Chia Ching Lin, whose nickname is Gaga Lin</p>
+    <p>This is my second year in the department of <abbr title="Techonology Application and Human Resourse Deplopment">
+        TAHRD</abbr>, NTNU</p>
+    <p>I have interest in volleyball, everything of Japanese <abbr title="Anime, Comics, Games">ACG</abbr>
+        , and also scouting activities.</p>
+
+    <button class="ctsm" onclick="MyFunc()" id="toggleBtn">Click to See More</button>
+
+    <a id="more"></a>
+    <p id="demo"></p>
+
+    <script>
+        function MyFunc(){
+            var demo=document.getElementById("demo");
+            var btn=document.getElementById("toggleBtn");
+
+            if(demo.innerHTML===""){
+                var x=document.createElement("ADDRESS");
+                var t = document.createTextNode
+                ("I have join several girl scout activity and also hold a winter camp with classmates in our department.");
+                x.appendChild(t);
+                demo.appendChild(x);
+                btn.innerText="Click to Hide";
+            }
+            else{
+                demo.innerHTML=""
+                btn.innerText="Click to See More";
+            }
+            
+        }
+    </script>
+
+    <pre class="deTail">
+        <span id="ooo" class="mete" data-selecable-paragraph>1. </span>
+    </pre>
+
+</body>
+</html>
+</html>
