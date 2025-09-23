@@ -2,4 +2,4 @@
 大二學科組必修科目
 教授：蔡芸琤Pecu
 
-網站[https://gagalin105.github.io/2025code/]
+個人網站:[https://gagalin105.github.io/2025code/]
