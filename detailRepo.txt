@@ -1,5 +1,7 @@
 -Edit all of the codes in Visual Studio Code
+
+~9/24
 -Change all colors from "text-primery" to <style="color: darkcyan;">
-    -one by one changing(it's really tiring and boring)
-    -including the background of the switch and the icon
+    -changing one by one(it's really tiring and boring)
+    -including the text, the background of the switch and the icon
 -Change the infromation in the pre-web
