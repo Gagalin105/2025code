@@ -3,4 +3,5 @@
 教授：蔡芸琤Pecu
 
   # 作業
-[個人網站](https://gagalin105.github.io/2025code/)
+  [個人網站](https://gagalin105.github.io/2025code/)
+  [更改筆記](detailRepo.txt)
