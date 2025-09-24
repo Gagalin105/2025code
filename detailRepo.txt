@@ -1,3 +1,4 @@
 -change all colors from "text-primery" to <style="color: darkcyan;">
+    -one by one changing(it's really tiring and boring)
     -including the background of the switch and the icon
 -change the infromation in the pre-web
