@@ -4,4 +4,5 @@
 -Change all colors from "text-primery" to <style="color: darkcyan;">
     -changing one by one(it's really tiring and boring)
     -including the text, the background of the switch and the icon
+    -Founding that I can build a "style.css" to set up the primery color the day after I started working at color changing.
 -Change the infromation in the pre-web
