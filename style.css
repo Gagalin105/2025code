@@ -1,0 +1,9 @@
+.btn-outline-darkcyan {
+    color: darkcyan;
+    border-color: darkcyan;
+}
+
+.btn-outline-darkcyan:hover {
+    background-color: darkcyan;
+    color: white; /* hover 時文字變白 */
+}
