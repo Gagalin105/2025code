@@ -1,8 +1,13 @@
 body {
     background-color: azure; /* 背景淺藍色 */
-    .text-uppercase.text-primary{
-        color: darkcyan;
-    }
+}
+
+.text-UpperCase.text-PriMary{
+    color: darkcyan;
+}
+
+.text-Primary{
+    color:darkcyan;
 }
 
 .btn-primary{
