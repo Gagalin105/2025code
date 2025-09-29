@@ -5,4 +5,5 @@
     -changing one by one(it's really tiring and boring)
     -including the text, the background of the switch and the icon
     -Founding that I can build a "style.css" to set up the primery color the day after I started working at color changing.
+    -Founding that I can't just set the colors up in my own .css file, so I put my css in front of "bootstrap.min.css."
 -Change the infromation in the pre-web
